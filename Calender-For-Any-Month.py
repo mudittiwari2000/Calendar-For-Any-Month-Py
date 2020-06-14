@@ -6,7 +6,7 @@ from simple_colors import *
 clear ()                        #* To clear the console
 
 monthdict = {
-a
+    
     1: 0, 2: 3, 3: 3,  4: 6,  5: 1,  6: 4,
     7: 6, 8: 2, 9: 5, 10: 0, 11: 3, 12: 5            
 }
